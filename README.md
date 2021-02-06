@@ -57,8 +57,8 @@ panoply的安装：
 
 panoply的使用:
 
-![image-20210206160132421](Readme_pics/image-20210206160132421.png)
+![image-20210206160132421](.\Readme_pics\image-20210206160132421.png)
 
-![image-20210206160227978](Readme_pics\image-20210206160227978.png)
+![image-20210206160227978](.\Readme_pics\image-20210206160227978.png)
 
-![image-20210206160259301](Readme_pics\image-20210206160259301.png)
+![image-20210206160259301](.\Readme_pics\image-20210206160259301.png)

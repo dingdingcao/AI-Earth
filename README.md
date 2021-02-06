@@ -40,3 +40,25 @@
 | enso_round1_train_20210201.zip | 4.07GB | https://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/531871/enso_round1_train_20210201.zip | 14a1481b2e8b596650650cbf78e8bb08 |
 
 天池挑战赛网址：https://tianchi.aliyun.com/competition/entrance/531871/introduction?spm=5176.12281949.1003.1.4cb824483RbSbC
+
+
+
+数据可视化工具（Netcdf文件读取）
+
+（1） [https://www.giss.nasa.gov/tools/panoply/](https://www.giss.nasa.gov/tools/panoply/?spm=5176.12281978.0.0.1e805330K9lMBD) panoply可视化文件
+
+（2） Python中xarray/netCDF4 库
+
+
+
+panoply的安装：
+
+官网下载，对java runtime environment 要求9以上，低版本的java打不开，自行下载。
+
+panoply的使用:
+
+![image-20210206160132421](C:\Users\15158\AppData\Roaming\Typora\typora-user-images\image-20210206160132421.png)
+
+![image-20210206160227978](C:\Users\15158\AppData\Roaming\Typora\typora-user-images\image-20210206160227978.png)
+
+![image-20210206160259301](C:\Users\15158\AppData\Roaming\Typora\typora-user-images\image-20210206160259301.png)

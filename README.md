@@ -57,8 +57,8 @@ panoply的安装：
 
 panoply的使用:
 
-![image-20210206160132421](C:\Users\15158\AppData\Roaming\Typora\typora-user-images\image-20210206160132421.png)
+![image-20210206160132421](F:\天池比赛\AI-Earth\Readme_pics\image-20210206160132421.png)
 
-![image-20210206160227978](C:\Users\15158\AppData\Roaming\Typora\typora-user-images\image-20210206160227978.png)
+![image-20210206160227978](F:\天池比赛\AI-Earth\Readme_pics\image-20210206160227978.png)
 
-![image-20210206160259301](C:\Users\15158\AppData\Roaming\Typora\typora-user-images\image-20210206160259301.png)
+![image-20210206160259301](F:\天池比赛\AI-Earth\Readme_pics\image-20210206160259301.png)
